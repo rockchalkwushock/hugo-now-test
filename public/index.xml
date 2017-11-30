@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Test Site</title>
+    <link>https://hugo-test-site.now.sh/</link>
+    <description>Recent content on Hugo Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 12:41:25 -0600</lastBuildDate>
+    
+	<atom:link href="https://hugo-test-site.now.sh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>deploying-with-now-cli</title>
+      <link>https://hugo-test-site.now.sh/post/deploying-with-now-cli/</link>
+      <pubDate>Thu, 30 Nov 2017 12:41:25 -0600</pubDate>
+      
+      <guid>https://hugo-test-site.now.sh/post/deploying-with-now-cli/</guid>
+      <description>Deploying a Hugo Generated Site with the Now-CLI This took a hot minute to figure out and I&amp;rsquo;m still not very keen on understanding hugo in general, but I&amp;rsquo;m getting there&amp;hellip;slowly but surely.
+# Publish Hugo Site to Now # $1 - name of deployment # $2 - alias publish() { if [ &amp;quot;$PWD&amp;quot; == $HOME ]; then # macOS will throw &amp;quot;permission denied&amp;quot; on rm -rf public anyways # but this makes it a lot less scary looking.</description>
+    </item>
+    
+  </channel>
+</rss>
